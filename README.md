@@ -8,7 +8,8 @@ The data contained two .csv files, one with the data about red wine and the othe
 
 Regarding the process that was followed :
 
-• Importing the libraries <br> 
+• Importing the libraries   
+
 • Importing the datasets
 • Displaying the datasets for red and white wine
 • Displaying dataset info
