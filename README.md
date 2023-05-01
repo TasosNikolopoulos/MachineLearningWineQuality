@@ -1,1 +1,1 @@
-# MachineLearningWineQuality
+# Machine Learning Wine Quality
