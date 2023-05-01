@@ -10,17 +10,28 @@ Regarding the process that was followed :
 
 • Importing the libraries   
 
-• Importing the datasets
-• Displaying the datasets for red and white wine
-• Displaying dataset info
-• Dropping the duplicate values
-• Description of each dataframe (statistical values)
-• Appending the one dataframe to the other
-• Correlation matrices regarding the quality of the wines
-• Plot of the number of wines regarding their quality
-• Plotting the wine quality standards (Low, Medium, High)
-• Creating proportions for the quality of the wine
-• Linear regression method for the dataset of the red wine
+• Importing the datasets  
+
+• Displaying the datasets for red and white wine  
+
+• Displaying dataset info  
+
+• Dropping the duplicate values  
+
+• Description of each dataframe (statistical values)  
+
+• Appending the one dataframe to the other  
+
+• Correlation matrices regarding the quality of the wines  
+
+• Plot of the number of wines regarding their quality  
+
+• Plotting the wine quality standards (Low, Medium, High)  
+
+• Creating proportions for the quality of the wine  
+
+• Linear regression method for the dataset of the red wine  
+
 • Seperation of the data in Train and Test sets for predictive analysis
 
 The data analysis and machine learning methods were done with Python in the Jupyter Lab of Anaconda.
